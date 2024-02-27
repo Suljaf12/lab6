@@ -1,0 +1,15 @@
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE specific files
+.vscode/
+.idea/
+
+# Compiled files
+*.min.css
+*.min.js
+
+# Logs
+*.log
